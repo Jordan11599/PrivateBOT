@@ -1,0 +1,14 @@
+{
+  "name": "privatebot",
+  "version": "4.8.94",
+  "description": "Development Bot",
+  "main": "PrivateBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Betts / WishyWashy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
