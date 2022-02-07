@@ -1,8 +1,12 @@
 ## **PrivateBOT**
 
-**A discord bot created for event scheduling**
-> Created by Jordan Betts
+**A discord bot created for event scheduling**#
 
+*This project is currently custom built, so will need code tweeked in order to work on other servers*
+
+Discord Contact: WishyWashy#5280
+
+> Created by Jordan Betts
 #### Current Features 
 - [x] Permissions required to create new events 
 - [X] Customizable start dates
@@ -17,3 +21,10 @@
 - [X] Optional adding Links into event titles
 - [X] Optional adding Discriptions into event info
 - [X] Optional adding Images into event info
+
+#### Upcomming Features 
+- [ ] General Misc
+- [ ] Second help menu for better visabiliy 
+- [ ] Uploading to AWS
+- [ ] Updating settup of inputting event dates
+- [ ] Functions to set location of BOT messages
