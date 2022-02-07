@@ -24,7 +24,7 @@ Discord Contact: WishyWashy#5280
 
 #### Upcomming Features 
 - [ ] General Misc
-- [ ] Second help menu for better visabiliy 
+- [ ] Updating Help menu + adding second help menu for better visabiliy 
 - [ ] Uploading to AWS
 - [ ] Updating settup of inputting event dates
 - [ ] Functions to set location of BOT messages
