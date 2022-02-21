@@ -13,16 +13,16 @@ Discord Contact: WishyWashy#5280
 - [X] Help menu
 - [X] Embedded Messages
 - [X] Reminders sent to users DM's
-- [X] Flexiable event reminders
-- [X] Local timezones showed for when events start
+- [X] Flexible event reminders
+- [X] Local timezones shown for when events start
 - [X] Listing all events with number of attendees
 - [X] Listing all attendees in events
 - [X] Removing Events + Removing events automatically after finishing
 - [X] Optional adding Links into event titles
-- [X] Optional adding Discriptions into event info
+- [X] Optional adding Descriptions into event info
 - [X] Optional adding Images into event info
 
-#### Upcomming Features 
+#### Upcoming Features 
 - [ ] General Misc
 - [ ] Updating Help menu + adding second help menu for better visabiliy 
 - [ ] Uploading to AWS
