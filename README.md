@@ -9,7 +9,7 @@ Discord Contact: WishyWashy#5280
 > Created by Jordan Betts
 #### Current Features 
 - [x] Permissions required to create new events 
-- [X] Customizable start dates
+- [X] Customisable start dates
 - [X] Help menu
 - [X] Embedded Messages
 - [X] Reminders sent to users DM's
